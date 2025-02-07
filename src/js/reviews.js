@@ -6,32 +6,32 @@ const reviewsData = [
     name: "Natalia",
     text: "Work with was extraordinary! He turned out to be a very competent and responsible specialist. The projects were completed on time and the result exceeded my expectations",
     avatar: {
-        x1: "./img/reviews/avatar-1.jpg",
-        x2: "./img/reviews/avatar-1@2x.jpg"
+        x1: "/img/reviews/avatar-1.jpg",
+        x2: "/img/reviews/avatar-1@2x.jpg"
     }
   },
   {
     name: "Dmytro",
     text: "I have the honor to recommend him as an exceptional professional in his field. His knowledge and expertise are undeniable. Cooperation with him always brings impressive results.",
     avatar: {
-        x1: "./img/reviews/avatar-2.jpg",
-        x2: "./img/reviews/avatar-2@2x.jpg"
+        x1: "../img/reviews/avatar-2.jpg",
+        x2: "../img/reviews/avatar-2@2x.jpg"
     }
   },
   {
     name: "Anna",
     text: "The developed project impresses with its quality and efficiency. The code is cleanly written and the functionality exceeds expectations. Extremely satisfied with the cooperation!",
     avatar: {
-        x1: "./img/reviews/avatar-3.jpg",
-        x2: "./img/reviews/avatar-3@2x.jpg"
+        x1: "/src/img/reviews/avatar-3.jpg",
+        x2: "/src/img/reviews/avatar-3@2x.jpg"
     }
   },
   {
     name: "Ivetta",
     text: "Thanks for the excellent work on the project! His talent and professionalism deserve recognition. I recommend it to everyone who is looking for an expert in the field of software development.",
     avatar: {
-        x1: "./img/reviews/avatar-4.jpg",
-        x2: "./img/reviews/avatar-4@2x.jpg"
+        x1: "./src/img/reviews/avatar-4.jpg",
+        x2: "./src/img/reviews/avatar-4@2x.jpg"
     }
   },
   {
